@@ -1,0 +1,32 @@
+body{
+    background-color: rgb(219, 204, 132);
+}
+
+.center{
+    text-align: center;
+}
+
+nav{
+    background-color: aliceblue;
+    text-align: center;
+}
+hr{
+    border: 1px black solid;
+}
+ul{
+    font-family: 'Noto Serif', serif;
+}
+ul li{
+    font-family: 'Noto Serif', serif;
+    list-style-type: none;
+    font
+}
+h1{
+    
+    font-family: 'Noto Serif', serif;
+}
+p{
+    font-family: 'Noto Serif', serif;
+}
+
+
